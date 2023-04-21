@@ -1,4 +1,1 @@
-{"ignore": [
-  "fishData.json",
-  "fishes.json"
-]}
+{"ignore": ["fishData.json", "fishes.json", "lakeData.json"]}
